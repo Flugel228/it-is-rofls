@@ -7,6 +7,9 @@ module.exports = {
     extend: {
       width: {
         '112': '32rem'
+      },
+      fontFamily: {
+        'courier': 'Courier'
       }
     },
   },
